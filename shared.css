@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(223, 215, 207);
+  text-align: center;
+  color: #534b4b;
+}
+
+h1 {
+  font-family: "Edu AU VIC WA NT Pre", sans-serif;
+}
+
+p {
+  font-family: "Sour Gummy", sans-serif;
+}
+
+a {
+  font-family: "Sour Gummy", sans-serif;
+  text-decoration: none;
+  color: rgb(167, 1, 78);
+}
+
+a:hover {
+  text-decoration: underline;
+}
